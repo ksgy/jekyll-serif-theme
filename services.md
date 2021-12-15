@@ -7,6 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# How can we help your business?
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Take online orders or bookings directly on your own professional website, new or existing. 
+
+Let your regulars order the easiest way on your restaurant app.

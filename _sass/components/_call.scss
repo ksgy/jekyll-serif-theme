@@ -1,4 +1,5 @@
 .call {
+  margin-top: 3rem;
   position: relative;
   overflow: hidden;
   background-color: $white-offset;
@@ -36,6 +37,7 @@
   }
   .call-phone {
     margin-bottom: 5px;
+    font-size: 2rem;
   }
   .call-email {
     a {

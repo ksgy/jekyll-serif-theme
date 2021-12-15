@@ -5,12 +5,15 @@ main:
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Prices"
+    url: "/prices/"
     weight: 4
+  - name: "FAQ"
+    url: "/faq/"
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"

@@ -90,4 +90,24 @@
     color: $steel;
     border-left: .25em solid $secondary;
   }
+
+  form {
+    padding: 2.5rem;
+    background-color: $lightsteel;
+    input, textarea {
+      padding: 10px 15px;
+      margin: 0 0 20px 0;
+      border: 1px solid $steel;
+      width: 100%;
+    }
+    .success-message, .error__message {
+      display: none;
+    }
+    button {
+      border: none;
+      background-color: $primary;
+      color: $white;
+      padding: 10px 30px;
+    }
+  }
 }

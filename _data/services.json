@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Add another sales channel",
+    "description": "and stand out from your competitors",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "You'll have full control",
+    "description": "over the menu and other content in your app",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Faster and easier to place orders",
+    "description": "so your regular customers will love it!",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

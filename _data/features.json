@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Our clients love us",
+    "description": "We’ve already helped hundreds of restaurants to get the most out of the internet.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Free Support",
+    "description": "We offer free support to all our clients, 7 days a week from our friendly UK-based support team. Plus we’re constantly adding new features to support you and your customers at no extra charge.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Fair pricing",
+    "description": "We understand your need to control costs, especially while your website gets established. That’s why our system is designed to be cheaper than a fixed-fee service.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

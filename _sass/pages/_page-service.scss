@@ -9,5 +9,20 @@
         color: rgb(104, 104, 104);
       }
     }
+    > h1 {
+      &:first-child {
+        text-align: left;
+      }
+      text-align: center;
+    }
+    .feature {
+      background-color: #fff3f2;
+    }
+    .feature h2 {
+      color: #ea524d;
+      font-size: 1.4rem;
+      text-transform: uppercase;
+      margin-top: 0;
+    }
   }
 }
