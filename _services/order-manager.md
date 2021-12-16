@@ -72,4 +72,4 @@ Whether it's a collection or delivery order, a walk-in or a phone sale, the flex
 For busy restaurants serving both in-house diners and at-home orders the FOODit Order Manager offers the kind of intuitive ticket-based system that your kitchen demands. At the same time you can track order types and implement the workflow that works best for you and your team.
 
 To see our recommended hardware, click the button below.
-<a href="/hardware" class="btn btn-primary btn-lg">FOODit Hardware</a>
+<a href="https://ksgy.github.io/jekyll-serif-theme/hardware/" class="btn btn-primary btn-lg">FOODit Hardware</a>
