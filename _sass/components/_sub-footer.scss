@@ -15,8 +15,13 @@
       flex-direction: row;
     }
   }
+  .copyright.small {
+    font-size: 10px;
+    margin-top: 0;
+  }
   .copyright {
-    margin-top: 10px;
+    margin-top: 7px;
+    margin-bottom: 3px;
     font-size: 14px;
     a {
       font-weight: bold;

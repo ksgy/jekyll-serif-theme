@@ -1,12 +1,17 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/FOODitLimited",
+    "image": "images/social/facebook.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/foodit",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "LinkedIn",
+    "link": "https://uk.linkedin.com/company/foodit-com",
+    "image": "images/social/linkedin.svg"
   }
 ]

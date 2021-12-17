@@ -9,8 +9,9 @@ main:
     url: "/prices/"
     weight: 4
   - name: "FAQ"
-    url: "/faq/"
+    url: "https://foodit.zendesk.com/hc/en-gb"
     weight: 5
+    target: "_blank"
   - name: "Contact"
     url: "/contact/"
     weight: 6
